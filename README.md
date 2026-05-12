@@ -7,34 +7,6 @@ The project follows a frontend-backend architecture using **React Native** for t
 
 ---
 
-# 📂 Project Structure
-
-```txt
-To_Do_List/
-│
-├── backend/
-│   ├── server.js              # Express.js backend server
-│   └── package.json           # Backend dependencies
-│
-├── frontend/
-│   │
-│   ├── app/
-│   │   └── index.js           # Main frontend screen
-│   │
-│   ├── App.js                 # Expo entry point
-│   ├── app.json               # Expo configuration
-│   ├── package.json           # Frontend dependencies
-│   ├── tsconfig.json          # TypeScript configuration
-│   ├── README.md              # Project documentation
-│   │
-│   └── screenshots/
-│       ├── task-list.png
-│       ├── enter-task.png
-│       └── add-task.png
-```
-
----
-
 # ✨ Features
 
 ✅ Add New Tasks
@@ -67,11 +39,17 @@ To_Do_List/
 
 ## ✍️ Enter Task Screen
 
-Enter_Task_Screenshot
+<p align="center">
+  <img src="frontend/assets/screenshots/enter-task.png" alt="enter-task" width="600"/>
+</p>
+
 
 ## ➕ Add Task Screen
 
-Add_Task_Screenshot
+<p align="center">
+  <img src="frontend/assets/screenshots/add-task.png" alt="add-task" width="600"/>
+</p>
+
 
 ---
 
@@ -111,6 +89,33 @@ User Input
 └──────────────────────┘
 ```
 
+---
+
+# 📂 Project Structure
+
+```txt
+To_Do_List/
+│
+├── backend/
+│   ├── server.js              # Express.js backend server
+│   └── package.json           # Backend dependencies
+│
+├── frontend/
+│   │
+│   ├── app/
+│   │   └── index.js           # Main frontend screen
+│   │
+│   ├── App.js                 # Expo entry point
+│   ├── app.json               # Expo configuration
+│   ├── package.json           # Frontend dependencies
+│   ├── tsconfig.json          # TypeScript configuration
+│   ├── README.md              # Project documentation
+│   │
+│   └── screenshots/
+│       ├── task-list.png
+│       ├── enter-task.png
+│       └── add-task.png
+```
 ---
 
 # 🚀 Setup and Installation
