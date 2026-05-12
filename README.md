@@ -62,7 +62,7 @@ To_Do_List/
 ## 🏠 Task List Screen
 
 <p align="center">
-  <img src="assets/screenshots/task-list.png" alt="task-list" width="600"/>
+  <img src="frontend/assets/screenshots/task-list.png" alt="task-list" width="600"/>
 </p>
 
 ## ✍️ Enter Task Screen
